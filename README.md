@@ -1,2 +1,2 @@
 # road-fighter
-A Car Racing Game using jQuery
+A Car Racing Game using jQuery.
